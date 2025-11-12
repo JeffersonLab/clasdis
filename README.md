@@ -35,7 +35,7 @@ To get more command line options
    --radgen                   include radgen
    --radtab         generate radgen table for SIDIS
    --targ target proton   deuteron/neutron possible
-   --pol  polarization    0%  -100 - 100% target pol
+   --pol  polarization    0 unpol, 1 for helicity product of e- and N +1, and -1 for product -1 
    --print nprint     1000 print every nprint event
 --printid id       0   print tmp-file forid=321
 --accclas12            acceptance for clas12 ON
